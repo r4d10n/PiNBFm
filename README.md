@@ -4,7 +4,7 @@ Pi-NBFM
 ## Narrow-band FM transmitter using the Raspberry Pi
 
 This is a minimal stripped version of the Pi-FM-RDS built on LibRPiTX by Evariste F5OEO. 
-For original version, see <F5OEO/PiFmRds> (https://github.com/F5OEO/PiFmRds).
+For original version, see [<F5OEO/PiFmRds>](https://github.com/F5OEO/PiFmRds).
 
 
 ## How to use it?
